@@ -1,6 +1,14 @@
 # Hi there, I'm [Gustavo Pina] 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or field of expertise].
+Olá, me chamo Gustavo Pina!
+--------
+Sou Formado em Analise e desenvolvimento de sistemas.
+
+-----------
+
+
+
+
 
 ## About Me
 
